@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "592465389148",
+      "project_id": "sample-7f656",
+      "storage_bucket": "sample-7f656.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:592465389148:android:44625fbcbafa528a942899",
+          "android_client_info": {
+            "package_name": "com.lovenheal.Sample"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "592465389148-4qavrl4m4o7vtkjf74m5arhbfo1rvnde.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyBYXMKzxUzTL5qTUFuUn7c8EcwHbJY2lus"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "592465389148-4qavrl4m4o7vtkjf74m5arhbfo1rvnde.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
